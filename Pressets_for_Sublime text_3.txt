@@ -1,0 +1,47 @@
+{
+	"auto_complete": false,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"fold_buttons": false,
+	"font_size": 9,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"margin": 2,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"show_definitions": false,
+	"tab_size": 2,
+	"theme": "Material-Theme-Palenight.sublime-theme",
+	"word_wrap": "false"
+}
+
+
+
+
+// beauty with sublime text 3 
+[
+    { "keys": ["alt+shift+f"], "command": "reindent" },
+]
+
+
+
+// Что скачать
+ctrl + shift + p // Package Control
+
+1) Emmet
+2) AutoFileName
+3) AutoPrefixer
+4) One Dark Color Scheme 	// цветовая схема для подсветки кода
+5) One Dark Material 	 // Theme - тема оформления UI Sublime Text
