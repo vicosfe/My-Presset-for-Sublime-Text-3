@@ -30,7 +30,7 @@
 
 
 
-// beauty with sublime text 3 
+// beauty for sublime text 3  (windows)
 [
     { "keys": ["alt+shift+f"], "command": "reindent" },
 ]
