@@ -45,3 +45,13 @@ ctrl + shift + p // Package Control
 3) AutoPrefixer
 4) One Dark Color Scheme 	// цветова€ схема дл€ подсветки кода
 5) One Dark Material 	 // Theme - тема оформлени€ UI Sublime Text
+
+
+//ѕолезные команды
+
+
+Disable Package, Enable Package Ц включить или выключить дополнение.
+List Packages Ц список установленных дополнений.
+Discover Packages Ц откроет в браузере страницу со списком пакетов. «десь можно найти описание и документацию к дополнени€м.
+Remove Package Ц удалить дополнение.
+Upgrade Package - обновить дополнение.
