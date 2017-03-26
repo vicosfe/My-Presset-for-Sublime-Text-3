@@ -1,4 +1,4 @@
-{
+п»ї{
 	"auto_complete": false,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
@@ -37,21 +37,21 @@
 
 
 
-// Что скачать
+// Р§С‚Рѕ СЃРєР°С‡Р°С‚СЊ
 ctrl + shift + p // Package Control
 
 1) Emmet
 2) AutoFileName
 3) AutoPrefixer
-4) One Dark Color Scheme 	// цветовая схема для подсветки кода
-5) One Dark Material 	 // Theme - тема оформления UI Sublime Text
+4) One Dark Color Scheme 	// С†РІРµС‚РѕРІР°СЏ СЃС…РµРјР° РґР»СЏ РїРѕРґСЃРІРµС‚РєРё РєРѕРґР°
+5) One Dark Material 	 // Theme - С‚РµРјР° РѕС„РѕСЂРјР»РµРЅРёСЏ UI Sublime Text
 
 
-//Полезные команды
+//РџРѕР»РµР·РЅС‹Рµ РєРѕРјР°РЅРґС‹
 
 
-Disable Package, Enable Package – включить или выключить дополнение.
-List Packages – список установленных дополнений.
-Discover Packages – откроет в браузере страницу со списком пакетов. Здесь можно найти описание и документацию к дополнениям.
-Remove Package – удалить дополнение.
-Upgrade Package - обновить дополнение.
+Disable Package, Enable Package вЂ“ РІРєР»СЋС‡РёС‚СЊ РёР»Рё РІС‹РєР»СЋС‡РёС‚СЊ РґРѕРїРѕР»РЅРµРЅРёРµ.
+List Packages вЂ“ СЃРїРёСЃРѕРє СѓСЃС‚Р°РЅРѕРІР»РµРЅРЅС‹С… РґРѕРїРѕР»РЅРµРЅРёР№.
+Discover Packages вЂ“ РѕС‚РєСЂРѕРµС‚ РІ Р±СЂР°СѓР·РµСЂРµ СЃС‚СЂР°РЅРёС†Сѓ СЃРѕ СЃРїРёСЃРєРѕРј РїР°РєРµС‚РѕРІ. Р—РґРµСЃСЊ РјРѕР¶РЅРѕ РЅР°Р№С‚Рё РѕРїРёСЃР°РЅРёРµ Рё РґРѕРєСѓРјРµРЅС‚Р°С†РёСЋ Рє РґРѕРїРѕР»РЅРµРЅРёСЏРј.
+Remove Package вЂ“ СѓРґР°Р»РёС‚СЊ РґРѕРїРѕР»РЅРµРЅРёРµ.
+Upgrade Package - РѕР±РЅРѕРІРёС‚СЊ РґРѕРїРѕР»РЅРµРЅРёРµ.
