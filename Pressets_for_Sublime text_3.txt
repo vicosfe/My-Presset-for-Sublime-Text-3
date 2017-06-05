@@ -45,11 +45,16 @@ ctrl + shift + p // Package Control
 3) AutoPrefixer
 4) One Dark Color Scheme 	// цветовая схема для подсветки кода
 5) One Dark Material 	 // Theme - тема оформления UI Sublime Text
+6) CSS3
+7) JavaScritNext
+8) SublimeLinter
+9) ColorHighLighter
+10) ColorPicker
 
 
 //Полезные команды
 
-
+"highlight_modified_tabs": true, - // подсвечивать табы, в которые внесены изменения
 Disable Package, Enable Package – включить или выключить дополнение.
 List Packages – список установленных дополнений.
 Discover Packages – откроет в браузере страницу со списком пакетов. Здесь можно найти описание и документацию к дополнениям.
